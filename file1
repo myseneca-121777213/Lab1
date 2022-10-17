@@ -1,10 +1,10 @@
   "A function that takes an input from the user and calculate persons age"
 
- ``  #!/usr/bin/env/python3 #sh-bang_line
+  #!/usr/bin/env/python3 #sh-bang_line
 
 def calculating_age():
 Birth_Year = input("Insert your year of birth: ")
 age = 2022-int(Birth_Year)
 return f"Your current age is (age) years"
 
-print(calculating_age()) ``
+print(calculating_age()) 
